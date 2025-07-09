@@ -9,7 +9,7 @@ I'm a 4th year Information Technology student in the Interactive Multimedia & De
 
 - 👯 I’m looking to collaborate on **arduino, front-end, and VR projects**
 
-- 👨‍💻 All of my projects are available at [https://aminaal-helali.netlify.app/](https://aminaal-helali.netlify.app/)
+- 👨‍💻 My projects are available at [https://aminaal-helali.netlify.app/](https://aminaal-helali.netlify.app/)
 
 - 📫 How to reach me **amina.ottawa@gmail.com**
 
