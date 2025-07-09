@@ -9,7 +9,7 @@
 ## About me...
 I'm a 4th year Information Technology student in the Interactive Multimedia & Design program. While my background is mainly in software development 💻, I enjoy working across the full product journey from designing user experiences 🎨 to building them. Accessibility is a key focus in my projects to keep things simple and usable for everyone. I'm looking for opportunities within **full-stack development**, **front-end development**, **VR** and the **museum space**.
 
-| Technology | Experience |
+| Technology | Experience & Projects |
 |--------------|-------------|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | [![BrainWaveWorld-IMD3901B](https://img.shields.io/badge/-BrainWaveWorld--IMD3901B-black?logo=github)](https://github.com/acce8711/BrainWaveWorld-IMD3901B) [![Paper-Plane-Adventures](https://img.shields.io/badge/-Paper--Plane--Adventures-black?logo=github)](https://github.com/acce8711/Paper-Plane-Adventures) [![PotteryVR](https://img.shields.io/badge/-PotteryVR-black?logo=github)](https://github.com/acce8711/PotteryVR) |
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [![Palette-Dock](https://img.shields.io/badge/-Palette--Dock-black?logo=github)](https://github.com/acce8711/Palette-Dock) [![pomodoro-app](https://img.shields.io/badge/-pomodoro--app-black?logo=github)](https://github.com/etretf/pomodoro-app) |
