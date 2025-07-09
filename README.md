@@ -3,15 +3,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aminaal-helali/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:amina.ottawa@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@aminaa1201)
+[![Portfolio](https://img.shields.io/badge/Website-0A66C2?logo=google-chrome&logoColor=white)](https://aminaal-helali.netlify.app/)
+
 
 ## About me...
 I'm a 4th year Information Technology student in the Interactive Multimedia & Design program. While my background is mainly in software development 💻, I enjoy working across the full product journey from designing user experiences 🎨 to building them. Accessibility is a key focus in my projects to keep things simple and usable for everyone. I'm looking for opportunities within **full-stack development**, **front-end development**, **VR** and the **museum space**.
-
-- 👯 I’m looking to collaborate on **arduino, front-end, and VR projects**
-
-- 👨‍💻 My projects are available at [https://aminaal-helali.netlify.app/](https://aminaal-helali.netlify.app/)
-
-- 📫 How to reach me **amina.ottawa@gmail.com**
 
 | Technology | Experience |
 |--------------|-------------|
