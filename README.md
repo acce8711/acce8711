@@ -15,6 +15,7 @@ I'm a 4th year Information Technology student in the Interactive Multimedia & De
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | [![Palette-Dock](https://img.shields.io/badge/-Palette--Dock-black?logo=github)](https://github.com/acce8711/Palette-Dock) [![pomodoro-app](https://img.shields.io/badge/-pomodoro--app-black?logo=github)](https://github.com/etretf/pomodoro-app) |
 | ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=black) | [![ImageProcessor](https://img.shields.io/badge/-ImageProcessor-black?logo=github)](https://github.com/acce8711/ImageProcessor) [![movement-memory-game](https://img.shields.io/badge/-movement--memory--game-black?logo=github)](https://github.com/acce8711/movement-memory-game?tab=readme-ov-file) |
 | ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=black) | Professional experience gained through a 8-month co-op term  |
+| ![Java](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=black) | Professional experience gained through a 4-month co-op term  |
 | ![Figma](https://img.shields.io/badge/-Figma-1E1E1E?logo=figma&logoColor=white) |  Professional experience gained through a 4-month co-op term  |
 <!--
 <h3 align="left">Languages and Tools:</h3>
